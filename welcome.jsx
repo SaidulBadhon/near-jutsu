@@ -1,0 +1,1 @@
+return <h1>Welcome to Jutsu.ai</h1>
