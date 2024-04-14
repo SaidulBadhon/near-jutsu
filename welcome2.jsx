@@ -1,0 +1,1 @@
+return ("Welcome 2 to Jutsu.ai")
